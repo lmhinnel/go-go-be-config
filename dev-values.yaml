@@ -11,8 +11,8 @@ configmap:
 
 imageApi:
   name: lmhinnoc/vdt-api
-  tag: "v1.0.2"
+  tag: "v1.0.3"
 
 imageDb:
   name: lmhinnoc/vdt-db
-  tag: "v1.0.2"
+  tag: "v1.0.3"
